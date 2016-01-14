@@ -1,24 +1,26 @@
-title: Vladimir Zaytsev
-tagline: Your awesome tagline
+title: Vladimir Zaytsev Blog
+tagline:
 description: > # This means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # The base hostname & protocol for your site
-image: /images/site-image.jpg # The site cover image on the home page
-feed: # Set it if your feed path is not /feed.xml, e.g. /atom.xml
+url: "https://zaycev.github.io" # The base hostname & protocol for your site
+# image: /images/site-image.jpg # The site cover image on the home page
+feed: /feed.xml # Set it if your feed path is not /feed.xml, e.g. /atom.xml
 paginate: 10 # http://jekyllrb.com/docs/pagination/
 
-disqus_shortname:
-google_analytics_tracking_id:
+destination: /Users/zaitsev/code/zblog/zaycev.github.com
+disqus_shortname: znlp
+google_analytics_tracking_id: UA-47310787-1
+
 
 # Site navigation
 nav:
-  - title: "Home"
+  - title: "Posts"
     url:   "/"
-  - title: "Documentation"
-    url:   "/docs/"
+  - title: "About Me"
+    url:   "/about/"
 
 social_links:
   - title: "Twitter"
@@ -37,8 +39,8 @@ social_links:
 authors:
   zaytsev:
     name: Vova Zaytsev
-    website: https://zaycev.github.io
-    bio: An awesome bio # Author info at bottom of post only shows if bio exists
+    website: https://zaycev.github.io/about
+    bio: ML and NLP engineer at A9
     avatar: /images/vova-zaytsev-avatar.jpg
 
 # Extra Open Graph and Twitter Cards settings for social sharing
