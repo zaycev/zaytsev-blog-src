@@ -10,9 +10,9 @@ Hi!
 
 My name is Vladimir (Vova) Zaytsev.
 
-I'm a software developer at A9 (an Amazon company). My research and study background is in natural language processing and machine learning fields. I specialize in large-scale machine learning approaches for real-world situations.
+I'm a software developer at A9 (an Amazon company).  I currently reside in Palo Alto, California. My research and study background is in natural language processing and machine learning fields. I specialize in large-scale machine learning approaches for real-world situations.
 
-I got my MS degree in Computer Science from University of Southern California. There, I have completed several research projects working with  Jerry Hobbs, Katya Ovchinnikova, Yu-Han Chang, Rajiv Maheswaran and Kevin Knight.
+I got my MS degree in Computer Science from University of Southern California. There and at ISI, I have completed several research projects working with Jerry Hobbs, Katya Ovchinnikova, Yu-Han Chang, Rajiv Maheswaran and Kevin Knight.
 
 Here is my brief background in chronological order:
 
